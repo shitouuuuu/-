@@ -1,4 +1,4 @@
-
+# 以下是不挑节点且需要f的网站
 payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xiaozh.xyz
