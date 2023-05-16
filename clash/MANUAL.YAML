@@ -1,10 +1,14 @@
-host-suffix, v2ex.com, OverSea
-host-suffix, xiaozh.xyz, OverSea
-host-suffix, theinitium.com, OverSea
-host-suffix, hostloc.com, OverSea
-host-suffix, pttime.org, OverSea
-host-suffix, m-team.cc, OverSea
-host-suffix, mypikpak.com, OverSea
-host, bit.z223.xyz, OverSea
-host, amp-api.podcasts.apple.com, OverSea
 
+
+
+
+payload:
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,xiaozh.xyz
+  - DOMAIN-SUFFIX,theinitium.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,bit.z223.xyz
+  - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
