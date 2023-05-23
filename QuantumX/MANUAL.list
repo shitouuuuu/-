@@ -9,7 +9,14 @@ host-suffix, m-team.cc, OverSea
 host-suffix, mypikpak.com, OverSea
 host, bit.z223.xyz, OverSea
 host, amp-api.podcasts.apple.com, OverSea
-host, feedly.com, OverSea
+host-suffix, feedly.com, OverSea
+host-suffix, discord.com, OverSea
 
 
-
+#emby
+host, https://emby.speedx.one
+host, https://misty.ltd
+host, https://fire.atvii.com
+host, https://1.4545.cf
+host, https://emby.agon.cf
+host-suffix, freeembyguide.eu.org
