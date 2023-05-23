@@ -10,3 +10,17 @@ payload:
   - DOMAIN-SUFFIX,bit.z223.xyz
   - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
   - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,discord.com
+
+
+
+#emby
+  - DOMAIN,https://emby.speedx.one
+  - DOMAIN,https://misty.ltd
+  - DOMAIN,https://fire.atvii.com
+  - DOMAIN,https://1.4545.cf
+  - DOMAIN,https://emby.agon.cf
+  - DOMAIN-SUFFIX,freeembyguide.eu.org
+
+
+
