@@ -17,9 +17,9 @@ host-suffix, raw.githubusercontent.com , OverSea
 
 
 #emby
-host, emby.speedx.one
-host, misty.ltd
-host, fire.atvii.com
-host, 1.4545.cf
-host, emby.agon.cf
+host-suffix, emby.speedx.one
+host-suffix, misty.ltd
+host-suffix, fire.atvii.com
+host-suffix, 1.4545.cf
+host-suffix, emby.agon.cf
 host-suffix, freeembyguide.eu.org
