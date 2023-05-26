@@ -11,6 +11,11 @@ payload:
   - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,raw.githubusercontent.com 
+
+
 
 
 
