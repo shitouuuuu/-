@@ -11,6 +11,9 @@ host, bit.z223.xyz, OverSea
 host, amp-api.podcasts.apple.com, OverSea
 host-suffix, feedly.com, OverSea
 host-suffix, discord.com, OverSea
+host-suffix, github.com, OverSea
+host-suffix, githubusercontent.com, OverSea
+host-suffix, raw.githubusercontent.com , OverSea
 
 
 #emby
