@@ -18,10 +18,7 @@ host-suffix, raw.githubusercontent.com , OverSea
 host-suffix, torrentleech.org, OverSea
 host-suffix, torrentleech.me, OverSea
 host-suffix, bestbuy.com, OverSea
-
-
-
-
+host-suffix, wikinews.org, OverSea
 #emby
 host-suffix, emby.speedx.one
 host-suffix, misty.ltd
