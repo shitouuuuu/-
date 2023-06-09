@@ -18,7 +18,8 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentleech.me
   - DOMAIN-SUFFIX,bestbuy.com
-  
+  - DOMAIN-SUFFIX,wikinews.org
+
   
 #emby
   - DOMAIN,https://emby.speedx.one
