@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,raw.githubusercontent.com 
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentleech.me
+  - DOMAIN-SUFFIX,bestbuy.com
+  
+  
 #emby
   - DOMAIN,https://emby.speedx.one
   - DOMAIN,https://misty.ltd
