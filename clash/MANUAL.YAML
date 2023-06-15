@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,torrentleech.me
   - DOMAIN-SUFFIX,bestbuy.com
   - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,onekey.so
 
   
 #emby
