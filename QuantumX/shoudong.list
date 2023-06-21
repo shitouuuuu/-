@@ -22,7 +22,7 @@ host-suffix, wikinews.org, OverSea
 host-suffix, onekey.so, OverSea
 
 #emby
-host-suffix, fire.atvii.com
-host-suffix, 1.4545.cf
-host-suffix, emby.agon.cf
-host-suffix, freeembyguide.eu.org
+host-suffix, fire.atvii.com, OverSea
+host-suffix, 1.4545.cf, OverSea
+host-suffix, emby.agon.cf, OverSea
+host-suffix, freeembyguide.eu.org, OverSea
