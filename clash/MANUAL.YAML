@@ -22,6 +22,9 @@ payload:
   - DOMAIN-SUFFIX,onekey.so
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+
+
   
 #emby
   - DOMAIN,https://emby.speedx.one
