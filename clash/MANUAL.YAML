@@ -24,7 +24,7 @@ payload:
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,target.com
-
+  - DOMAIN-SUFFIX,anthropic.com
 
   
 #emby
