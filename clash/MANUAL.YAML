@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,mxwljsq.top
+  - DOMAIN-SUFFIX,t.me
+
 
 
 
