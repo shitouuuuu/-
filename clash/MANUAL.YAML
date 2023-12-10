@@ -32,6 +32,9 @@ payload:
   - DOMAIN-SUFFIX,bot.impian.eu
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,wikipedia.org
+
+
 
 
 
