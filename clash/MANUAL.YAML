@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,bard.google.com
 
 
 
