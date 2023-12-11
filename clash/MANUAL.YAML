@@ -34,6 +34,9 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+
+
 
 
 
