@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,raw.githubusercontent.com 
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentleech.me
   - DOMAIN-SUFFIX,bestbuy.com
