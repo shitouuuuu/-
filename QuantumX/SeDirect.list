@@ -1,9 +1,5 @@
-# 工作-德伦
-host-suffix, delunykyy.com, direct
-host-suffix, delun-group.com, direct
-host-suffix, delunkq.com, direct
-host-suffix, delunyk.com, direct
 host-suffix, douyin.com, direct
-
+host-suffix, gov.cn, direct
+host-suffix, *.cn, direct
 
 
