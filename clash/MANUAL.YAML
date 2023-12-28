@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,carbon.pm
 
 
 
