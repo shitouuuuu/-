@@ -1,5 +1,9 @@
 # 以下是不挑节点且需要f的网站
 payload:
+  - DOMAIN-SUFFIX,moon.fm
+  - DOMAIN-SUFFIX,rss.soundon.fm
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN-KEYWORD,podcasts
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xiaozh.xyz
   - DOMAIN-SUFFIX,theinitium.com
@@ -36,9 +40,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,carbon.pm
-  - DOMAIN-SUFFIX,moon.fm
-  - DOMAIN-SUFFIX,rss.soundon.fm
-  - DOMAIN-SUFFIX,podcasts.apple.com
+
 
 
 
