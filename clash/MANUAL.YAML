@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,z223.xyz
   - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,rsshub.app
@@ -37,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,carbon.pm
+  - DOMAIN-SUFFIX,moon.fm
 
 
 
