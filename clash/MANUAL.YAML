@@ -40,8 +40,12 @@ payload:
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,carbon.pm
-
-
+  - DOMAIN,bookkeeper.itunes.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,client-api.itunes.apple.com
+  - DOMAIN,cl3.apple.com
+  - DOMAIN,xp.apple.com
+  - DOMAIN,y2pod.com
 
 
 
