@@ -52,7 +52,6 @@ payload:
 
   
 #emby
-  - DOMAIN-SUFFIX,maoxiong.cloud
   - DOMAIN,emby.speedx.one
   - DOMAIN,misty.ltd
   - DOMAIN,fire.atvii.com
