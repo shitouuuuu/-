@@ -50,19 +50,9 @@ payload:
   - DOMAIN,y2pod.com
   - DOMAIN,anchor.fm
 
-
-
-
-
-
-
-
-
-
-
-
   
 #emby
+  - DOMAIN-SUFFIX,maoxiong.cloud
   - DOMAIN,emby.speedx.one
   - DOMAIN,misty.ltd
   - DOMAIN,fire.atvii.com
