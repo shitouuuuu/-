@@ -40,6 +40,8 @@ payload:
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,carbon.pm
+
+# podcasts
   - DOMAIN,bookkeeper.itunes.apple.com
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,client-api.itunes.apple.com
@@ -61,10 +63,10 @@ payload:
 
   
 #emby
-  - DOMAIN,https://emby.speedx.one
-  - DOMAIN,https://misty.ltd
-  - DOMAIN,https://fire.atvii.com
-  - DOMAIN,https://1.4545.cf
-  - DOMAIN,https://emby.agon.cf
+  - DOMAIN,emby.speedx.one
+  - DOMAIN,misty.ltd
+  - DOMAIN,fire.atvii.com
+  - DOMAIN,1.4545.cf
+  - DOMAIN,emby.agon.cf
   - DOMAIN-SUFFIX,freeembyguide.eu.org
 
