@@ -1,5 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,chengzijianzhan.cn
+  - DOMAIN,localads.chengzijianzhan.cn  
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,*.cn
-
