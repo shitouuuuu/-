@@ -1,0 +1,64 @@
+# 以下是不挑节点且需要f的网站
+payload:
+  - DOMAIN-SUFFIX,moon.fm
+  - DOMAIN-SUFFIX,rss.soundon.fm
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN-KEYWORD,podcasts
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,xiaozh.xyz
+  - DOMAIN-SUFFIX,theinitium.com
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
+  - DOMAIN-SUFFIX,feedly.com
+  - DOMAIN-SUFFIX,rsshub.app
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,torrentleech.org
+  - DOMAIN-SUFFIX,torrentleech.me
+  - DOMAIN-SUFFIX,bestbuy.com
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,onekey.so
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,target.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,mxwljsq.top
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,bot.impian.eu
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,metacubex.one
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,cloudcone.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,carbon.pm
+
+# podcasts
+  - DOMAIN,bookkeeper.itunes.apple.com
+  - DOMAIN,amp-api.podcasts.apple.com
+  - DOMAIN,client-api.itunes.apple.com
+  - DOMAIN,cma.itunes.apple.com
+  - DOMAIN,play.itunes.apple.com
+  - DOMAIN,ocsp2.apple.com
+  - DOMAIN,cl3.apple.com
+  - DOMAIN,xp.apple.com
+  - DOMAIN,y2pod.com
+  - DOMAIN,anchor.fm
+
+  
+#emby
+  - DOMAIN,emby.speedx.one
+  - DOMAIN,misty.ltd
+  - DOMAIN,fire.atvii.com
+  - DOMAIN,1.4545.cf
+  - DOMAIN,emby.agon.cf
+  - DOMAIN-SUFFIX,freeembyguide.eu.org
+
