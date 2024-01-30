@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,podcasts
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xiaozh.xyz
+  - DOMAIN-SUFFIX,twreporter.org
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,pttime.org
