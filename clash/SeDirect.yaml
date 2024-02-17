@@ -2,12 +2,15 @@ payload:
 
 # DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,chengzijianzhan.cn
-
+  - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,gov.cn
   - DOMAIN-SUFFIX,wpscdn.cn
   - DOMAIN-SUFFIX,*.cn
 
+
+
   # DOMAIN
   - DOMAIN,www.baidu.com
   - DOMAIN,localads.chengzijianzhan.cn
+  
