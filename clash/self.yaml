@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,carbon.pm
+  - DOMAIN-SUFFIX,nssurge.com
 
 # podcasts
   - DOMAIN,bookkeeper.itunes.apple.com
