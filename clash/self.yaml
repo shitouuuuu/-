@@ -1,9 +1,6 @@
 # 以下是不挑节点且需要f的网站
 payload:
-  - DOMAIN-SUFFIX,moon.fm
-  - DOMAIN-SUFFIX,rss.soundon.fm
-  - DOMAIN-SUFFIX,podcasts.apple.com
-  - DOMAIN-KEYWORD,podcasts
+
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,xiaozh.xyz
   - DOMAIN-SUFFIX,twreporter.org
@@ -47,6 +44,7 @@ payload:
   - DOMAIN,bookkeeper.itunes.apple.com
   - DOMAIN-SUFFIX,amp-api.podcasts.apple.com
   - DOMAIN,podcasts.apple.com
+  - DOMAIN-SUFFIX,podcasts.apple.com
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,client-api.itunes.apple.com
   - DOMAIN,cma.itunes.apple.com
@@ -56,7 +54,9 @@ payload:
   - DOMAIN,xp.apple.com
   - DOMAIN,y2pod.com
   - DOMAIN,anchor.fm
-
+  - DOMAIN-SUFFIX,moon.fm
+  - DOMAIN-SUFFIX,rss.soundon.fm
+  - DOMAIN-KEYWORD,podcasts
   
 #emby
   - DOMAIN,emby.speedx.one
