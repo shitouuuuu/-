@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.eu
   - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,hub.docker.com
 
   
 
