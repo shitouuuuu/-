@@ -15,7 +15,7 @@ payload:
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,rsshub.app
   - DOMAIN-SUFFIX,discord.com
-  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,torrentleech.org
   - DOMAIN-SUFFIX,torrentleech.me
