@@ -7,7 +7,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,pttime.org
-  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-KEYWORD,m-team
   - DOMAIN-SUFFIX,mypikpak.com
   - DOMAIN-SUFFIX,feedly.com
   - DOMAIN-SUFFIX,rsshub.app
