@@ -6,5 +6,5 @@
 
 [Rule]
 # Apple News
-RULE-SET,https://raw.githubusercontent.com/cc63/Surge/main/Module/AppleNews.list,{{{AppleNews}}},extended-matching
-DOMAIN,gateway.icloud.com,{{{AppleNews}}},extended-matching
+RULE-SET,https://raw.githubusercontent.com/cc63/Surge/main/Module/AppleNews.list,AppleNews,extended-matching
+DOMAIN,gateway.icloud.com,AppleNews,extended-matching
